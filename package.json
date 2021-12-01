@@ -1,0 +1,10 @@
+{
+  "name": "create-composer",
+  "version": "0.0.0",
+  "description": "Create composer.json from vendor/composer/installed.json",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
